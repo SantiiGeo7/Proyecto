@@ -2,7 +2,7 @@
 
 - Código fuente del tablero: [index.qmd](https://github.com/SantiiGeo7/Proyecto/blob/main/index.qmd)
 - Archivos de datos:
-    - [registros-presencia.csv](https://github.com/gf0604-procesamientodatosgeograficos/2024-i-tablero-interactivo-ejemplo/blob/main/registros-presencia.csv)
+    - [registros-iguanidae.csv](https://github.com/SantiiGeo7/Proyecto/blob/main/registros-iguanidae.csv)
     - [especies.csv](https://github.com/gf0604-procesamientodatosgeograficos/2024-i-tablero-interactivo-ejemplo/blob/main/especies.csv)
     - [provincias.gpkg](https://github.com/gf0604-procesamientodatosgeograficos/2024-i-tablero-interactivo-ejemplo/blob/main/provincias.gpkg)
 - Ejecutable en shinyapps.io: [https://mfvargas.shinyapps.io/tablero-interactivo-ejemplo/](https://mfvargas.shinyapps.io/tablero-interactivo-ejemplo/)
